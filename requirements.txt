@@ -1,0 +1,4 @@
+Flask==2.0.1
+tensorflow==2.17.0  # Or another compatible version
+requests==2.26.0
+
