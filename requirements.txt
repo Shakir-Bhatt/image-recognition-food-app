@@ -1,4 +1,3 @@
-Flask==2.0.1
-tensorflow==2.17.0  # Or another compatible version
+Flask==2.0.1  # Use the installed version
+Werkzeug==2.0.1  # Use a compatible version with Flask 2.0.1
 requests==2.26.0
-
